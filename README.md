@@ -1,1 +1,1 @@
-# NavQuestDeluxe
+# EliteNavQuest
